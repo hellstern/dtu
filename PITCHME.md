@@ -1,29 +1,14 @@
----
-title: "Test"
-output:
-  slidy_presentation: default
-  ioslides_presentation: default
----
+# Produktions 
+# databehandling
+# og analyse
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Marp
-===
-<!-- page_number: true -->
-# Produktions databehandling og analyse
+## Tue Hellstern
 ---
 
-# Tue Hellstern
+# Introduktion
 
 ---
-# Undervisningsdage
-
----
-## 01 - 01-02-2018 
-[my link](./01.md)
-#### Introduktion til kurset
+## 01 - 01/02/2018 
 #### Lyn kursus i grundlæggende Excel
 * Grundlæggende formler
 * Navngivning af celler
@@ -33,7 +18,7 @@ Marp
 * Beskyttelse - sikkerhed
 ---
 
-## 02 - 08-02-2018
+## 02 - 08/02/2018
 #### Grundlæggende Excel
 * HVIS formler
 * Betinget formatering
@@ -43,7 +28,7 @@ Marp
 * Lookup functions
 ---
 
-## 03 - 15-02-2018
+## 03 - 15/02/2018
 ### Pivot Tabeller og Tabeller generelt
 * Introduktion til tabeller
 * Udsnitsværktøj
@@ -51,7 +36,7 @@ Marp
 * Pivot Diagrammer
 ---
 
-## 04 - 22-02-2018
+## 04 - 22/02/2018
 ### Store Datamængder – Intro til Databaser
 * Introduktion til database design og teori
 * Simpel – SQL
@@ -61,28 +46,28 @@ Marp
 	* Microsoft SQL Server
 ---
 
-## 05 - 01-03-2018
+## 05 - 01/03/2018
 ### Store Datamængder
 * Excel forbindelser til Databaser
 * Power Query
 * Power Pivot
 ---
 
-## 06 - 08-03-2018
+## 06 - 08/03/2018
 ### Data præsentation
 * Power View
 * Diagram typer
 ---
 
-## 07 - 15-03-2018
+## 07 - 15/03/2018
 ??
 ---
 
-## 08 - 22-03-2018
+## 08 - 22/03/2018
 ??
 ---
 
-## 09 - 05-04-2018
+## 09 - 05/04/2018
 ### Automatisering med VBA
 * Introduktion til Excel VBA programmering
 * VBA Editoren
@@ -90,7 +75,7 @@ Marp
 * Loop - Do - FOR
 ---
 
-## 10 - 12-04-2018
+## 10 - 12/04/2018
 ### Automatisering med VBA
 * Forms
 * Andre Office programmer
@@ -99,17 +84,17 @@ Marp
 	* Outlook
 ---
 
-## 11 - 19-04-2018
+## 11 - 19/04/2018
 ### Automatisering med VBA
 * Array
 * Import
 ---
 
-## 12 - 26-04-2018
+## 12 - 26/04/2018
 ### ??
 ---
 
-## 13 - 03-05-2018
+## 13 - 03/05/2018
 * Repetition 
 * Forberedelse til eksamen
 ---
